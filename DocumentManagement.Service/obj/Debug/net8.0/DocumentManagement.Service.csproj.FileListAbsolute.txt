@@ -1,0 +1,30 @@
+C:\Users\anilv\source\Workspaces\New\DocumentManagement.Service\bin\Debug\net8.0\DocumentManagement.Service.deps.json
+C:\Users\anilv\source\Workspaces\New\DocumentManagement.Service\bin\Debug\net8.0\DocumentManagement.Service.dll
+C:\Users\anilv\source\Workspaces\New\DocumentManagement.Service\bin\Debug\net8.0\DocumentManagement.Service.pdb
+C:\Users\anilv\source\Workspaces\New\DocumentManagement.Service\bin\Debug\net8.0\DocumentManagement.Data.dll
+C:\Users\anilv\source\Workspaces\New\DocumentManagement.Service\bin\Debug\net8.0\DocumentManagement.Data.pdb
+C:\Users\anilv\source\Workspaces\New\DocumentManagement.Service\obj\Debug\net8.0\DocumentManagement.Service.csproj.AssemblyReference.cache
+C:\Users\anilv\source\Workspaces\New\DocumentManagement.Service\obj\Debug\net8.0\DocumentManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anilv\source\Workspaces\New\DocumentManagement.Service\obj\Debug\net8.0\DocumentManagement.Service.AssemblyInfoInputs.cache
+C:\Users\anilv\source\Workspaces\New\DocumentManagement.Service\obj\Debug\net8.0\DocumentManagement.Service.AssemblyInfo.cs
+C:\Users\anilv\source\Workspaces\New\DocumentManagement.Service\obj\Debug\net8.0\DocumentManagement.Service.csproj.CoreCompileInputs.cache
+C:\Users\anilv\source\Workspaces\New\DocumentManagement.Service\obj\Debug\net8.0\DocumentManagement.Service.csproj.CopyComplete
+C:\Users\anilv\source\Workspaces\New\DocumentManagement.Service\obj\Debug\net8.0\DocumentManagement.Service.dll
+C:\Users\anilv\source\Workspaces\New\DocumentManagement.Service\obj\Debug\net8.0\refint\DocumentManagement.Service.dll
+C:\Users\anilv\source\Workspaces\New\DocumentManagement.Service\obj\Debug\net8.0\DocumentManagement.Service.pdb
+C:\Users\anilv\source\Workspaces\New\DocumentManagement.Service\obj\Debug\net8.0\ref\DocumentManagement.Service.dll
+D:\Bhargavi\42057-Lead Application Development Architect\DocumentManagement\DocumentManagement.Service\bin\Debug\net8.0\DocumentManagement.Service.deps.json
+D:\Bhargavi\42057-Lead Application Development Architect\DocumentManagement\DocumentManagement.Service\bin\Debug\net8.0\DocumentManagement.Service.dll
+D:\Bhargavi\42057-Lead Application Development Architect\DocumentManagement\DocumentManagement.Service\bin\Debug\net8.0\DocumentManagement.Service.pdb
+D:\Bhargavi\42057-Lead Application Development Architect\DocumentManagement\DocumentManagement.Service\bin\Debug\net8.0\DocumentManagement.Data.dll
+D:\Bhargavi\42057-Lead Application Development Architect\DocumentManagement\DocumentManagement.Service\bin\Debug\net8.0\DocumentManagement.Data.pdb
+D:\Bhargavi\42057-Lead Application Development Architect\DocumentManagement\DocumentManagement.Service\obj\Debug\net8.0\DocumentManagement.Service.csproj.AssemblyReference.cache
+D:\Bhargavi\42057-Lead Application Development Architect\DocumentManagement\DocumentManagement.Service\obj\Debug\net8.0\DocumentManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bhargavi\42057-Lead Application Development Architect\DocumentManagement\DocumentManagement.Service\obj\Debug\net8.0\DocumentManagement.Service.AssemblyInfoInputs.cache
+D:\Bhargavi\42057-Lead Application Development Architect\DocumentManagement\DocumentManagement.Service\obj\Debug\net8.0\DocumentManagement.Service.AssemblyInfo.cs
+D:\Bhargavi\42057-Lead Application Development Architect\DocumentManagement\DocumentManagement.Service\obj\Debug\net8.0\DocumentManagement.Service.csproj.CoreCompileInputs.cache
+D:\Bhargavi\42057-Lead Application Development Architect\DocumentManagement\DocumentManagement.Service\obj\Debug\net8.0\DocumentManagement.Service.csproj.CopyComplete
+D:\Bhargavi\42057-Lead Application Development Architect\DocumentManagement\DocumentManagement.Service\obj\Debug\net8.0\DocumentManagement.Service.dll
+D:\Bhargavi\42057-Lead Application Development Architect\DocumentManagement\DocumentManagement.Service\obj\Debug\net8.0\refint\DocumentManagement.Service.dll
+D:\Bhargavi\42057-Lead Application Development Architect\DocumentManagement\DocumentManagement.Service\obj\Debug\net8.0\DocumentManagement.Service.pdb
+D:\Bhargavi\42057-Lead Application Development Architect\DocumentManagement\DocumentManagement.Service\obj\Debug\net8.0\ref\DocumentManagement.Service.dll

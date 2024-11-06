@@ -1,0 +1,323 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Tests\\DocumentManagement.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Data\\DocumentManagement.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Data\\DocumentManagement.Data.csproj",
+        "projectName": "DocumentManagement.Data",
+        "projectPath": "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Data\\DocumentManagement.Data.csproj",
+        "packagesPath": "C:\\Users\\anilv\\.nuget\\packages\\",
+        "outputPath": "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anilv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Service\\DocumentManagement.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Service\\DocumentManagement.Service.csproj",
+        "projectName": "DocumentManagement.Service",
+        "projectPath": "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Service\\DocumentManagement.Service.csproj",
+        "packagesPath": "C:\\Users\\anilv\\.nuget\\packages\\",
+        "outputPath": "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anilv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Data\\DocumentManagement.Data.csproj": {
+                "projectPath": "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Data\\DocumentManagement.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Tests\\DocumentManagement.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Tests\\DocumentManagement.Tests.csproj",
+        "projectName": "DocumentManagement.Tests",
+        "projectPath": "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Tests\\DocumentManagement.Tests.csproj",
+        "packagesPath": "C:\\Users\\anilv\\.nuget\\packages\\",
+        "outputPath": "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anilv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Data\\DocumentManagement.Data.csproj": {
+                "projectPath": "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Data\\DocumentManagement.Data.csproj"
+              },
+              "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Service\\DocumentManagement.Service.csproj": {
+                "projectPath": "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Service\\DocumentManagement.Service.csproj"
+              },
+              "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Web\\DocumentManagement.Web.csproj": {
+                "projectPath": "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Web\\DocumentManagement.Web.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.10.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit.ConsoleRunner": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Web\\DocumentManagement.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Web\\DocumentManagement.Web.csproj",
+        "projectName": "DocumentManagement.Web",
+        "projectPath": "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Web\\DocumentManagement.Web.csproj",
+        "packagesPath": "C:\\Users\\anilv\\.nuget\\packages\\",
+        "outputPath": "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anilv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Service\\DocumentManagement.Service.csproj": {
+                "projectPath": "D:\\Bhargavi\\42057-Lead Application Development Architect\\DocumentManagement\\DocumentManagement.Service\\DocumentManagement.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

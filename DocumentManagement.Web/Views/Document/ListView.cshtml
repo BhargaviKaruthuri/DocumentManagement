@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "List View";
+    Layout = "_Layout";
+}
+<form>
+    <div class="card rounded-3 shadow-sm">
+        <div class="card-header">
+            <h5 class="my-0 fw-normal docList-name">Users Document List </h5>
+            <h5 class="my-0 fw-normal docList-add">  <a href="/Document/AddDocuments" id="AddDocuments" class="btn btn-outline-primary"><i class="bi bi-plus-lg"></i> Create new record</a> </h5>
+        </div>
+        <div class="card-body">
+            <table id="DocumentsDatatable" class="table table-striped table-bordered dt-responsive nowrap" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>PropertyIdentityNumber</th>
+                        <th>Description</th>
+                        <th>Created By</th>
+                        <th>Updated By</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+    </div>
+</form>
+@section Scripts {
+    <script src="~/js/listview.js"></script>
+}
